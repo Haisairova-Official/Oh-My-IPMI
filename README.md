@@ -1,4 +1,4 @@
-# Oh-My-IPMI
+# Oh-My-IPMI（Now Abandoned）
 A GUI IPMI config tool for windows
 ### under construction：
 1.扫描局域网内支持IPMI的端口（623）
